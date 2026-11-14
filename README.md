@@ -1,4 +1,4 @@
-# Clammerly
+# Clammarly
 
 Grammarly for clankers. A Claude Code skill that finds the writing tics that make text read as machine-written, plus vague wording, hidden actions and buried points, and rewrites each line plainly.
 
@@ -9,10 +9,10 @@ It works on product copy, emails, prompts, docs and drafts. Give it a path, a di
 Copy the folder into your Claude Code skills directory:
 
 ```bash
-git clone https://github.com/dadukhankevin/clammerly ~/.claude/skills/clammerly
+git clone https://github.com/dadukhankevin/clammarly ~/.claude/skills/clammarly
 ```
 
-Then run `/clammerly` in Claude Code, optionally with a target and `--fix` or `--strict`. See [SKILL.md](SKILL.md) for the full list of patterns and how it reports.
+Then run `/clammarly` in Claude Code, optionally with a target and `--fix` or `--strict`. See [SKILL.md](SKILL.md) for the full list of patterns and how it reports.
 
 ## Credit
 

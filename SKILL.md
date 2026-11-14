@@ -1,9 +1,9 @@
 ---
-name: clammerly
-description: Grammarly for clankers. Takes a path, a diff, pasted text, or a plain description like "the front page", "onboarding" or "all user-facing copy". Finds the writing tics that make text read as machine-written (negation reveals, "the one thing that matters", aphoristic closers, fragment cadence, dressed metaphors and more) plus vague wording, hidden actions and buried points, then rewrites each line plainly. Use when asked to run /clammerly, de-slop or check copy, review user-facing strings, a prompt, an email, a landing page or a draft for AI-sounding writing.
+name: clammarly
+description: Grammarly for clankers. Takes a path, a diff, pasted text, or a plain description like "the front page", "onboarding" or "all user-facing copy". Finds the writing tics that make text read as machine-written (negation reveals, "the one thing that matters", aphoristic closers, fragment cadence, dressed metaphors and more) plus vague wording, hidden actions and buried points, then rewrites each line plainly. Use when asked to run /clammarly, de-slop or check copy, review user-facing strings, a prompt, an email, a landing page or a draft for AI-sounding writing.
 ---
 
-# Clammerly
+# Clammarly
 
 Check writing for the patterns people notice as "AI wrote this", and fix them. Works on product copy, emails, prompts, docs and drafts.
 
